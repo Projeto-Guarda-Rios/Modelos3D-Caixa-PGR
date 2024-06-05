@@ -11,7 +11,7 @@ Neste Repositório Estão Incluídos **Todos** os Modelos 3D de Todas as Versõe
 * Modelos de Todas as Versões das Caixas Juntas num Ficheiro .step! [Modelo Aqui!](https://github.com/Projeto-Guarda-Rios/Modelos3D-Caixa-PGR/blob/main/Caixa%20Prot%C3%B3tipo%20v16.step)
 * Modelos da Caixa e Tampa da Versão 1! [Modelo Aqui!](https://github.com/Projeto-Guarda-Rios/Modelos3D-Caixa-PGR/tree/main/Modelos3D%20-%20PGR/V1)
 * Modelos da Caixa e Tampa da Versão 1.1! [Modelo Aqui!](https://github.com/Projeto-Guarda-Rios/Modelos3D-Caixa-PGR/tree/main/Modelos3D%20-%20PGR/V1.1)
-* Modelos da Caixa e Tampa da Versão 2! [Modeelo Aqui!](https://github.com/Projeto-Guarda-Rios/Modelos3D-Caixa-PGR/tree/main/Modelos3D%20-%20PGR/V2)
+* Modelos da Caixa e Tampa da Versão 2! [Modelo Aqui!](https://github.com/Projeto-Guarda-Rios/Modelos3D-Caixa-PGR/tree/main/Modelos3D%20-%20PGR/V2)
 
 #
 
